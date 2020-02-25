@@ -16,7 +16,7 @@ Digital Craft Spring-'20
 ## Project one
 * [sketch 1](https://orilacau.github.io/PUFY1225-Digital_Craft_OriL/lasrprojct1/lasrprojct1.html)
 * [sketch 2](https://orilacau.github.io/PUFY1225-Digital_Craft_OriL/draft/draft.html)
-* [sketch 3]()
+* [sketch 3](https://orilacau.github.io/PUFY1225-Digital_Craft_OriL/apples/apple.html)
 
 
 ![alternate text](web adress)
