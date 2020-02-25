@@ -15,7 +15,7 @@ Digital Craft Spring-'20
 
 ## Project one
 * [sketch 1](https://orilacau.github.io/PUFY1225-Digital_Craft_OriL/draft/draft.html)
-* [sketch 2](https://orilacau.github.io/PUFY1225-Digital_Craft_OriL/draft/draft.html)
+* [sketch 2](https://orilacau.github.io/PUFY1225-Digital_Craft_OriL/pinkapp/pinkapp.html)
 * [sketch 3](https://orilacau.github.io/PUFY1225-Digital_Craft_OriL/apples/apples.html)
 
 
