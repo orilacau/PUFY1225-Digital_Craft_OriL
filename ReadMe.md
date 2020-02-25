@@ -10,7 +10,13 @@ Digital Craft Spring-'20
 
 ## Homework Week 3
 * [sketch 1](https://orilacau.github.io/PUFY1225-Digital_Craft_OriL/sktch1a/sktch1a.html)
+* [sketch 2](https://orilacau.github.io/PUFY1225-Digital_Craft_OriL/gnart2/gnart2.html)
+* [sketch 3](https://orilacau.github.io/PUFY1225-Digital_Craft_OriL/gnart3/gnart3.html)
+
+## Project one
+* [sketch 1](https://orilacau.github.io/PUFY1225-Digital_Craft_OriL/lasrprojct1/lasrprojct1.html)
 * [sketch 2]()
 * [sketch 3]()
+
 
 ![alternate text](web adress)
