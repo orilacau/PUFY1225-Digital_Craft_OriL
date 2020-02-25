@@ -15,7 +15,7 @@ Digital Craft Spring-'20
 
 ## Project one
 * [sketch 1](https://orilacau.github.io/PUFY1225-Digital_Craft_OriL/lasrprojct1/lasrprojct1.html)
-* [sketch 2]()
+* [sketch 2](https://orilacau.github.io/PUFY1225-Digital_Craft_OriL/lasrprojct1/lasrprojct1.html))
 * [sketch 3]()
 
 
