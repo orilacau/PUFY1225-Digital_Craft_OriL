@@ -18,7 +18,7 @@ Digital Craft Spring-'20
 * [sketch 2](https://orilacau.github.io/PUFY1225-Digital_Craft_OriL/pinkapp/pinkapp.html)
 * [sketch 3](https://orilacau.github.io/PUFY1225-Digital_Craft_OriL/apples/apples.html)
 
-## 3D
+## 3DD
 * [sketch 1](https://orilacau.github.io/PUFY1225-Digital_Craft_OriL/draft3d/draft3d.html)
 
 ![alternate text](web adress)
